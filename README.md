@@ -6,5 +6,10 @@ My life outside programming (not my job, by the way) includes Splatoon, Medium, 
 
 Think what I do is cool? Wow! Thanks! If you want to support me, just give my stuff a star on GitHub.  
 
+I'm also the creator of [Huelet](https://huelet.net), Don't Ask™, and [Leviathan](https://github.com/lerichardson/leviathan).
 
 Want to find me somewhere else? Check my stuff out on [Medium](https://litbelb.medium.com) and [Twitter](https://twitter.com/@butwhyt68749305)
+
+## My Stats:
+
+[![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerichardson)](https://github.com/anuraghazra/github-readme-stats)
